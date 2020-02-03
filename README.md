@@ -1,16 +1,16 @@
 # mubot
 muBoT BlockChain BoTNET
+```C
+BoTMaster -> CMD -> BOT -> Yes My Lord -> BoTMaster
 
->BoTMaster -> CMD -> BOT -> Yes My Lord -> BoTMaster
->
->BoTMaster0 -> CMD ------> BOT0 --CMD-> BOT1 -> Yes My Lord -> BoTMaster0
->		          x---CMD----> BOT2 -> Yes My Lord -> BoTMaster0
->                         x---CMD----> BOT3 -> Yes My Lord -> BoTMaster0
->                          x------------------> Yes My Lord -> BoTMaster0
->
->BoTMaster0 -> CMD -> BOT0 --CMD--> BOT1 -> Yes My Lord -> BoTMaster0
->		     x              x---------------------> Yes My Lord -> BoTMaster1
->                     |   
+BoTMaster0 -> CMD ------> BOT0 --CMD-> BOT1 -> Yes My Lord -> BoTMaster0
+		          x---CMD----> BOT2 -> Yes My Lord -> BoTMaster0
+                         x---CMD----> BOT3 -> Yes My Lord -> BoTMaster0
+                          x------------------> Yes My Lord -> BoTMaster0
+
+BoTMaster0 -> CMD -> BOT0 --CMD--> BOT1 -> Yes My Lord -> BoTMaster0
+		     x              x---------------------> Yes My Lord -> BoTMaster1
+                     |   
                      |                            
 		     |----CMD---> BOT2 -> Yes My Lord -> BoTMaster0
                      |              x--------> Yes My Lord -> BoTMaster1
@@ -64,10 +64,10 @@ x------------------>-<BoTListen--------x
 
 
 
+```
 
 
-
-
+```Shell
 Optimal System Configuration
 ############################################INSTALL.SH##############################################
 #!/bin/bash
@@ -104,6 +104,7 @@ apt-get install libssh-dev libssl-dev cmake libnacl-dev -y
 #########################################################################################################
 this script takes one hour to make ur system ready for run on all systems Kernel 1.33.7 and higher
 
+```
 
 
 Debian31337:~# cd muBoT/
