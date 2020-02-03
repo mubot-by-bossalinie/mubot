@@ -1,16 +1,16 @@
 # mubot
 muBoT BlockChain BoTNET
 
-BoTMaster -> CMD -> BOT -> Yes My Lord -> BoTMaster
-
-BoTMaster0 -> CMD ------> BOT0 --CMD-> BOT1 -> Yes My Lord -> BoTMaster0
-		          x---CMD----> BOT2 -> Yes My Lord -> BoTMaster0
-                          x---CMD----> BOT3 -> Yes My Lord -> BoTMaster0
-                          x------------------> Yes My Lord -> BoTMaster0
-
-BoTMaster0 -> CMD -> BOT0 --CMD--> BOT1 -> Yes My Lord -> BoTMaster0
-		     x              x---------------------> Yes My Lord -> BoTMaster1
-                     |   
+>BoTMaster -> CMD -> BOT -> Yes My Lord -> BoTMaster
+>
+>BoTMaster0 -> CMD ------> BOT0 --CMD-> BOT1 -> Yes My Lord -> BoTMaster0
+>		          x---CMD----> BOT2 -> Yes My Lord -> BoTMaster0
+>                         x---CMD----> BOT3 -> Yes My Lord -> BoTMaster0
+>                          x------------------> Yes My Lord -> BoTMaster0
+>
+>BoTMaster0 -> CMD -> BOT0 --CMD--> BOT1 -> Yes My Lord -> BoTMaster0
+>		     x              x---------------------> Yes My Lord -> BoTMaster1
+>                     |   
                      |                            
 		     |----CMD---> BOT2 -> Yes My Lord -> BoTMaster0
                      |              x--------> Yes My Lord -> BoTMaster1
