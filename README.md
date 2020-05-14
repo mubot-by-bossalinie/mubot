@@ -1,4 +1,7 @@
 # mubot
+
+google-site-verification: googlef90b6142f15a9b33.html
+
 muBoT BlockChain BoTNET
 ```C
 BoTMaster -> CMD -> BOT -> Yes My Lord -> BoTMaster
