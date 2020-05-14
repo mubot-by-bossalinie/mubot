@@ -1,6 +1,6 @@
 # mubot
 
-google-site-verification: googlef90b6142f15a9b33.html
+<meta name="google-site-verification" content="51hs4XIOA2yciMIijkKig9yh85nKYVIgD_1CTxKvUks" />
 
 muBoT BlockChain BoTNET
 ```C
